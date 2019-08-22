@@ -1,0 +1,141 @@
+# required by www-plugins/adobe-flash (argument)
+www-plugins/adobe-flash AdobeFlash-11.x
+# required by virtual/perl-CPAN-Meta-2.150.10-r2::gentoo
+# required by dev-perl/Module-Build-0.422.400::gentoo
+# required by dev-perl/Error-0.170.240::gentoo
+# required by dev-vcs/git-2.18.1::gentoo
+# required by media-fonts/powerline-fonts-9999-r2::raiagent
+# required by @selected
+# required by @world (argument)
+>=dev-lang/perl-5.30.0 Artistic GPL-1+
+# required by virtual/perl-version-0.992.300::gentoo
+# required by dev-perl/Module-Build-0.422.400::gentoo
+# required by dev-perl/Error-0.170.240::gentoo
+# required by dev-vcs/git-2.18.1::gentoo
+# required by media-fonts/powerline-fonts-9999-r2::raiagent
+# required by @selected
+# required by @world (argument)
+=dev-lang/perl-5.28.2-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/HTTP-Cookies-6.40.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/HTML-Tagset-3.200.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/HTML-Parser-3.720.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Module-Build-0.422.400 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Unicode-EastAsianWidth-1.330.0-r1 CC0-1.0
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Locale-gettext-1.70.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/LWP-Protocol-https-6.70.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Net-DBus-1.1.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Tie-IxHash-1.230.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/HTTP-Negotiate-6.10.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=app-text/po4a-0.47-r1 GPL-2
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Net-HTTP-6.170.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/File-DesktopEntry-0.220.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/libwww-perl-6.270.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/SGMLSpm-1.1-r1 GPL-2+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-perl/IO-Socket-SSL-2.52.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/File-BaseDir-0.70.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=app-editors/vim-8.1.1486 vim
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-perl/libintl-perl-1.280.0 GPL-3
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Socket6-0.280.0 BSD
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Try-Tiny-0.300.0 MIT
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/HTTP-Date-6.20.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/WWW-RobotRules-6.20.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/File-Listing-6.40.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/TermReadKey-2.370.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-perl/Net-SSLeay-1.820.0 openssl
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/LWP-MediaTypes-6.20.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Encode-Locale-1.50.0 Artistic GPL-1+
+# required by virtual/perl-File-Temp-0.230.400-r5::gentoo
+# required by dev-lang/perl-5.30.0::gentoo
+# required by virtual/perl-IO-Socket-IP-0.390.0-r1::gentoo
+# required by dev-perl/Net-HTTP-6.170.0::gentoo[-minimal]
+# required by dev-perl/libwww-perl-6.270.0::gentoo
+# required by dev-perl/XML-Twig-3.520.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=perl-core/File-Temp-0.230.400-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/File-MimeInfo-0.280.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/IO-Socket-INET6-2.720.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/IPC-System-Simple-1.250.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Text-Iconv-1.700.0-r2 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=sys-apps/texinfo-6.6-r1 GPL-3
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-perl/X11-Protocol-0.560.0-r1 Artistic GPL-1+ MIT
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/IO-HTML-1.1.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Text-Unidecode-1.300.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/XML-XPath-1.420.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/HTTP-Message-6.130.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Text-WrapI18N-0.60.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/HTTP-Daemon-6.10.0-r2 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/XML-Twig-3.520.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/String-CRC32-1.600.0 public-domain
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/Text-CharWidth-0.40.0-r1 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/XML-Parser-2.440.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+>=dev-perl/URI-1.730.0 Artistic GPL-1+
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=x11-terms/rxvt-unicode-9.22-r1 GPL-3
+# required by app-editors/vim-8.1.1486::gentoo[-minimal]
+# required by @selected
+# required by @world (argument)
+=app-editors/vim-core-8.1.1486 vim
+# required by virtual/perl-File-Spec-3.740.0::gentoo
+# required by dev-perl/Module-Build-0.422.400::gentoo
+# required by dev-perl/IO-Socket-INET6-2.720.0-r1::gentoo
+# required by dev-perl/Net-HTTP-6.170.0::gentoo[-minimal]
+# required by dev-perl/LWP-Protocol-https-6.70.0::gentoo
+# required by dev-perl/libwww-perl-6.270.0::gentoo[ssl]
+# required by dev-perl/XML-Twig-3.520.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-lang/perl-5.28.9999 Artistic GPL-1+
+# required by virtual/perl-Storable-2.620.0::gentoo
+# required by dev-perl/HTTP-Message-6.130.0::gentoo
+# required by dev-perl/HTTP-Negotiate-6.10.0-r1::gentoo
+# required by dev-perl/libwww-perl-6.270.0::gentoo
+# required by dev-perl/XML-Twig-3.520.0::gentoo
+# required by dev-perl/Net-DBus-1.1.0::gentoo
+# required by @__auto_slot_operator_replace_installed__ (argument)
+=dev-lang/perl-5.26.2 Artistic GPL-1+
