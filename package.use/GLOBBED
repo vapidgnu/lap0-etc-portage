@@ -1,0 +1,26 @@
+x11-wm/awesome doc
+media-video/ffmpeg x256 modplug opencl openh264 openssl ladspa libass libcaca libcaca lzma theora v4l chromium
+net-ftp/lftp verify-file
+net-libs/libpcap netlink
+www-plugins/adobe-flash nsplugin
+app-emulation/qemu gnutls vte xfs ssh spice snappy nfs numa capstone virtfs vde
+usbredir imtap sasl lzo xen doc
+dev-python/PyQt5 webchannel
+dev-qt/qtwebengine jumbo-build
+x11-terms/rxvt-unicode unicode3 256-color xft blink fading-colors pixbuf vanilla wcwidth
+media-video/vlc matroska
+www-client/w3m lynxkeymap xface fbcon nntp gdk-pixbuf
+www-client/w3mmee imlib xface
+x11-libs/libxcb xkb
+dev-lang/python sqlite
+sys-libs/zlib minizip
+media-sound/pulseaudio equalizer
+dev-python/PyQt5 multimedia sql declarative webengine
+dev-python/pyyaml libyaml
+dev-qt/qtmultimedia widgets
+dev-qt/qtwebengine widgets
+dev-qt/qtwebchannel qml
+media-libs/mesa opencl
+dev-libs/libgcrypt static-libs
+dev-libs/libgpg-error static-libs
+dev-libs/lzo static-libs
