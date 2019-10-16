@@ -1,0 +1,11 @@
+media-fonts/fontawesome ~amd64
+media-fonts/powerline-fonts ~amd64
+media-fonts/solarize ~amd64
+dev-python/pypeg2 ~amd64
+www-client/qutebrowser ~amd64
+www-plugins/pdfjs ~amd64
+x11-misc/gtk2fontsel ~amd64
+x11-misc/sprop ~amd64
+x11-misc/tabbed ~amd64
+# required by urxvtconfig (argument)
+=x11-misc/urxvtconfig-1.0-r1 ~amd64

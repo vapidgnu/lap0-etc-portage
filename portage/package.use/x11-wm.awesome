@@ -1,0 +1,12 @@
+x11-wm/awesome doc
+# required by x11-drivers/xf86-video-vmware-13.3.0::gentoo
+# required by xf86-video-vmware (argument)
+>=x11-libs/libdrm-2.4.97 libkms video_cards_vmware
+# required by x11-drivers/xf86-video-vmware-13.3.0::gentoo
+# required by xf86-video-vmware (argument)
+>=media-libs/mesa-19.0.8 xa
+# required by gnome-base/gnome-keyring-3.28.2::gentoo
+# required by app-crypt/libsecret-0.18.8::gentoo
+# required by gnome-extra/nm-applet-1.8.22::gentoo
+# required by nm-applet (argument)
+>=app-crypt/pinentry-1.1.0-r2 gnome-keyring
